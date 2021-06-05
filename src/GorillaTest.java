@@ -1,4 +1,4 @@
-package com.mammals.zookeeper;
+import com.mammals.zookeeper.Gorilla;
 
 public class GorillaTest {
 
