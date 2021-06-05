@@ -1,5 +1,4 @@
-import com.mammals.zookeeper.Gorilla;
-import com.mammals.zookeeper.Mammal;
+package com.mammals.zookeeper;
 
 public class GorillaTest {
 
